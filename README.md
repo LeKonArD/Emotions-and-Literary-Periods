@@ -10,3 +10,7 @@ shaver_predictions.tsv - Combined result of all model inferences <br>
 <br>
 pretraining/pretrainer.py - code for unsupervised pretraining on poems <br>
 pretraining/start_pretraining.sh - calls pretrainer.py with original parameters <br>
+
+## Large Files
+
+Download <a href="https://owncloud.gwdg.de/index.php/s/fTZbGDKNUGFBBlJ">here</a>
